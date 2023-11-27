@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
         <HighlightIcon />
-        SnapNote
+        SnapNote 
       </h1>
     </header>
   );
